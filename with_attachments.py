@@ -1,11 +1,3 @@
-"""
-######################################################################
-Email With Attachments Python Script
-Coded By "The Intrigued Engineer" over a coffee
-Thanks For Watching!!!
-######################################################################
-"""
-
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
